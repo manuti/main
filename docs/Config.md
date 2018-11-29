@@ -1,7 +1,7 @@
 [<Back to Table of Contents](../README.md)
 ### CONFIG Settings
 
-MindsDB has caonfig variables that can be set by as environment variables or on script.
+MindsDB has config variables that can be set by as environment variables or on script.
 
 Here are some of the variables of general interest:
 
